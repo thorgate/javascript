@@ -1,0 +1,25 @@
+name: Checks
+
+on:
+  push:
+    branches:
+      - master
+  pull_request
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'pull_request' || (github.event_name == 'push' && github.ref == 'refs/heads/master')
+    strategy:
+      matrix:
+        node: [10, 12, 14]
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-node@v1
+        with:
+          node-version: ${{ matrix.node }}
+      - uses: c-hive/gha-yarn-cache@v1
+      - name: Install deps
+        run: yarn --frozen-lockfile
+      - name: Lint package
+        run: yarn lint

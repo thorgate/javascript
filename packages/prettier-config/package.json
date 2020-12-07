@@ -1,0 +1,24 @@
+{
+  "name": "@thorgate/prettier-config",
+  "version": "1.0.0-alpha1",
+  "license": "MIT",
+  "author": "Thorgate <hi@thorgate.eu>",
+  "contributors": [
+    "Jörgen Ader <jorgen.ader@gmail.com> (https://github.com/jorgenader)"
+  ],
+  "description": "Common prettier-config used in Thorgate projects.",
+  "homepage": "https://github.com/thorgate/javascript/packages/prettier-config/",
+  "main": "index.js",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/thorgate/javascript.git",
+    "directory": "packages/prettier-config"
+  },
+  "bugs": {
+    "url": "https://github.com/thorgate/javascript/issues"
+  }
+}

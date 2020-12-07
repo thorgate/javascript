@@ -1,0 +1,5 @@
+{
+    "presets": [
+      "@thorgate/babel-preset"
+    ]
+}
