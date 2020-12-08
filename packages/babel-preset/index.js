@@ -34,7 +34,7 @@ module.exports = function (api, options) {
             modules: 'auto',
             exclude: ['transform-typeof-symbol'],
         },
-        options['preset-env'] || {}
+        options['preset-env'] || {},
     );
 
     // When transpiling for the server or tests, target the current Node version
@@ -71,14 +71,14 @@ module.exports = function (api, options) {
                     {
                         development: isDevelopment || isTest,
                     },
-                    options['preset-react'] || {}
+                    options['preset-react'] || {},
                 ),
             ],
             [
                 require('@babel/preset-typescript'),
                 Object.assign(
                     { allowNamespaces: true },
-                    options['preset-typescript'] || {}
+                    options['preset-typescript'] || {},
                 ),
             ],
         ],
@@ -105,11 +105,11 @@ module.exports = function (api, options) {
                             supportsESM &&
                             presetEnvConfig.modules !== 'commonjs',
                         absoluteRuntime: path.dirname(
-                            require.resolve('@babel/runtime/package.json')
+                            require.resolve('@babel/runtime/package.json'),
                         ),
                         version: require('@babel/runtime/package.json').version,
                     },
-                    options['transform-runtime'] || {}
+                    options['transform-runtime'] || {},
                 ),
             ],
             isProduction && [

@@ -17,7 +17,8 @@
     "postinstall": "lerna bootstrap",
     "lint": "run-s lint:*",
     "lint:eslint": "eslint .",
-    "lint:prettier": "prettier --check 'packages/**/*.js'"
+    "lint:prettier": "prettier --check 'packages/**/*.js'",
+    "prettier:format": "prettier --write 'packages/**/*.js'"
   },
   "prettier": "@thorgate/prettier-config",
   "devDependencies": {
