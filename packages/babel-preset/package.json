@@ -11,8 +11,7 @@
   "main": "index.js",
   "module": "index.js",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.com"
+    "access": "public"
   },
   "repository": {
     "type": "git",

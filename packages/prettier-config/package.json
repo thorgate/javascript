@@ -10,8 +10,7 @@
   "homepage": "https://github.com/thorgate/javascript/packages/prettier-config/",
   "main": "index.js",
   "publishConfig": {
-    "access": "public",
-    "registry": "https://registry.npmjs.com"
+    "access": "public"
   },
   "repository": {
     "type": "git",
