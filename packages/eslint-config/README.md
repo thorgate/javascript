@@ -22,7 +22,7 @@
    npm install eslint@^7.5.0 \
                eslint-config-airbnb@^18.2.1 \
                eslint-config-prettie@^7.0.0 \
-               eslint-config-react-app@^6.3.1 \
+               eslint-config-react-app@^6.0.0 \
                eslint-plugin-flowtype@^5.2.0 \
                eslint-plugin-import@^2.22.1 \
                eslint-plugin-jest@^24.1.3 \

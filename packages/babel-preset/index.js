@@ -69,10 +69,7 @@ module.exports = function (api, options) {
                 require('@babel/preset-react'),
                 Object.assign(
                     {
-                        // This adds @babel/plugin-transform-react-jsx-source and
-                        // @babel/plugin-transform-react-jsx-self automatically in development
                         development: isDevelopment || isTest,
-                        pragma: '__jsx',
                     },
                     options['preset-react'] || {}
                 ),

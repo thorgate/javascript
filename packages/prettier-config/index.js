@@ -8,6 +8,18 @@ module.exports = {
     semi: true,
     overrides: [
         {
+            files: '*.js',
+            options: {
+                trailingComma: 'all',
+            },
+        },
+        {
+            files: '*.jsx',
+            options: {
+                trailingComma: 'all',
+            },
+        },
+        {
             files: '*.ts',
             options: {
                 parser: 'typescript',
