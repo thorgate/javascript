@@ -1,12 +1,12 @@
 {
   "name": "@thorgate/eslint-config",
-  "version": "1.0.0-alpha1",
+  "version": "0.0.0",
   "license": "MIT",
   "author": "Thorgate <hi@thorgate.eu>",
   "contributors": [
     "Jörgen Ader <jorgen.ader@gmail.com> (https://github.com/jorgenader)"
   ],
-  "description": "Common ESLint config used in Thorgate projects. Based on Airbnb eslint config.",
+  "description": "Common ESLint config used in Thorgate project template. Based on Airbnb eslint config.",
   "homepage": "https://github.com/thorgate/javascript/packages/eslint-config/",
   "keywords": [
     "airbnb",
@@ -18,8 +18,7 @@
     "eslint",
     "eslintconfig",
     "javascript",
-    "styleguide",
-    "typescript"
+    "styleguide"
   ],
   "main": "index.js",
   "module": "index.js",

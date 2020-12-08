@@ -1,12 +1,12 @@
 {
   "name": "@thorgate/babel-preset",
-  "version": "1.0.0-alpha1",
+  "version": "0.0.0",
   "license": "MIT",
   "author": "Thorgate <hi@thorgate.eu>",
   "contributors": [
     "Jörgen Ader <jorgen.ader@gmail.com> (https://github.com/jorgenader)"
   ],
-  "description": "Common babel-preset used in Thorgate projects.",
+  "description": "Common babel-preset used in Thorgate project template.",
   "homepage": "https://github.com/thorgate/javascript/packages/babel-preset/",
   "main": "index.js",
   "module": "index.js",

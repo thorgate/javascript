@@ -1,12 +1,12 @@
 {
   "name": "@thorgate/prettier-config",
-  "version": "1.0.0-alpha1",
+  "version": "0.0.0",
   "license": "MIT",
   "author": "Thorgate <hi@thorgate.eu>",
   "contributors": [
     "Jörgen Ader <jorgen.ader@gmail.com> (https://github.com/jorgenader)"
   ],
-  "description": "Common prettier-config used in Thorgate projects.",
+  "description": "Common prettier-config used in Thorgate project template.",
   "homepage": "https://github.com/thorgate/javascript/packages/prettier-config/",
   "main": "index.js",
   "publishConfig": {
