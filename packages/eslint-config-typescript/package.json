@@ -1,6 +1,6 @@
 {
   "name": "@thorgate/eslint-config-typescript",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "license": "MIT",
   "author": "Thorgate <hi@thorgate.eu>",
   "contributors": [
@@ -36,8 +36,8 @@
     "url": "https://github.com/thorgate/javascript/issues"
   },
   "peerDependencies": {
-    "@typescript-eslint/parser": "^4.9.0",
     "@typescript-eslint/eslint-plugin": "^4.9.0",
+    "@typescript-eslint/parser": "^4.9.0",
     "eslint": "^6.8.0",
     "eslint-config-airbnb-typescript": "^12.0.0",
     "eslint-config-prettier": "^7.0.0",
