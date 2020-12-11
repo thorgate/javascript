@@ -7,11 +7,10 @@
   "version": "independent",
   "command": {
     "publish": {
-      "conventionalCommits": true
-    },
-    "version": {
-      "message": "chore: release new versions",
-      "conventionalCommits": true
+      "message": "chore(release): publish %s",
+      "ignoreChanges": [
+        "*.md"
+      ]
     }
   }
 }

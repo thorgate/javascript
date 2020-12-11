@@ -10,7 +10,7 @@
     "clean:all": "run-s clean:lock-files clean:node-modules clean:logs",
     "deploy": "run-s deploy:lint deploy:lerna",
     "deploy:lint": "yarn lint",
-    "deploy:lerna": "lerna publish --message 'chore: release new versions'",
+    "deploy:lerna": "lerna publish --conventional-commits --message 'chore: release new versions'",
     "prerelease": "run-s prerelease:*",
     "prerelease:lint": "yarn lint",
     "prerelease:release": "lerna publish --conventional-prerelease --pre-dist-tag next",
