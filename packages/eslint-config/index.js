@@ -4,7 +4,6 @@ module.exports = {
         'airbnb',
         'airbnb/hooks',
         'prettier',
-        'prettier/react',
         'plugin:jest/recommended',
     ],
     plugins: ['jest', 'prettier'],
