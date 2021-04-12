@@ -1,6 +1,6 @@
 {
   "name": "test-preset",
-  "version": "1.0.2",
+  "version": "2.0.0",
   "private": true,
   "prettier": "@thorgate/prettier-config",
   "main": "dist/index.js",
@@ -11,7 +11,7 @@
   "dependencies": {
     "@babel/cli": "^7.12.1",
     "@babel/core": "^7.12.3",
-    "@thorgate/babel-preset": "1.0.2",
+    "@thorgate/babel-preset": "^2.0.0",
     "babel-preset-razzle": "^4.0.4",
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
