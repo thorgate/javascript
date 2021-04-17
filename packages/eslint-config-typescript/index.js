@@ -6,7 +6,6 @@ module.exports = {
         'airbnb/hooks',
         'prettier',
         'plugin:jest/recommended',
-        'prettier/@typescript-eslint',
     ],
     plugins: ['@typescript-eslint', 'jest', 'prettier'],
     env: {
@@ -55,6 +54,7 @@ module.exports = {
                     '__REDUX_DEVTOOLS_EXTENSION_COMPOSE__',
                     '__SAGA_MONITOR_EXTENSION__',
                     '__VERSION__',
+                    '__ENV_NAME__',
                 ],
             },
         ],
