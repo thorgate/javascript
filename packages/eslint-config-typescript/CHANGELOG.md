@@ -3,6 +3,23 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config-typescript@2.0.0...@thorgate/eslint-config-typescript@2.1.0) (2021-04-17)
+
+
+### Bug Fixes
+
+* Fix eslint-config-typescript ([d05774c](https://github.com/thorgate/javascript/commit/d05774c0a70bc96ae3cffc93c5a7a58728610234))
+* Fix package versions ([62e63fd](https://github.com/thorgate/javascript/commit/62e63fdbb1c056d5d049fcee0e07bcd84296f8e4))
+
+
+### Features
+
+* Bump eslint-config-prettier ([8e45114](https://github.com/thorgate/javascript/commit/8e45114a76cfb35d9d951d054978cb1bddca303e))
+
+
+
+
+
 # [2.0.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config-typescript@1.0.2...@thorgate/eslint-config-typescript@2.0.0) (2021-04-12)
 
 

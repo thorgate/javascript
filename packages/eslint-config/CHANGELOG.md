@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [2.1.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config@2.0.0...@thorgate/eslint-config@2.1.0) (2021-04-17)
+
+
+### Features
+
+* Bump eslint-config-prettier ([8e45114](https://github.com/thorgate/javascript/commit/8e45114a76cfb35d9d951d054978cb1bddca303e))
+
+
+
+
+
 # [2.0.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config@1.0.1...@thorgate/eslint-config@2.0.0) (2021-04-12)
 
 
