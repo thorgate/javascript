@@ -46,6 +46,9 @@ module.exports = {
         // Allow unary ++ operator in for loop afterthoughts
         'no-plusplus': 'off',
 
+        // don't enforce the style of function components
+        'react/function-component-definition': 'off',
+
         // allow some underscore dangles
         'no-underscore-dangle': [
             'error',
