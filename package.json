@@ -46,9 +46,6 @@
     "react": "latest",
     "rimraf": "^3.0.2"
   },
-  "resolutions": {
-    "eslint-plugin-flowtype": "^8.0.3"
-  },
   "workspaces": [
     "packages/*",
     "examples/*"
