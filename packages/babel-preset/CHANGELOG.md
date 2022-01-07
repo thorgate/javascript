@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.0.0](https://github.com/thorgate/javascript/compare/@thorgate/babel-preset@2.0.0...@thorgate/babel-preset@3.0.0) (2022-01-07)
+
+**Note:** Version bump only for package @thorgate/babel-preset
+
+
+
+
+
 # [2.0.0](https://github.com/thorgate/javascript/compare/@thorgate/babel-preset@1.0.2...@thorgate/babel-preset@2.0.0) (2021-04-12)
 
 
