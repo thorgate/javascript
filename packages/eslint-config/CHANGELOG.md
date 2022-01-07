@@ -5,9 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [3.0.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config@2.1.0...@thorgate/eslint-config@3.0.0) (2022-01-07)
 
-**Note:** Version bump only for package @thorgate/eslint-config
-
-
+* Update dependencies (see #13)
 
 
 
