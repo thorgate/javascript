@@ -2853,10 +2853,10 @@ babel-preset-razzle@^4.0.4, babel-preset-razzle@^4.2.7:
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
     chalk "^4.1.0"
 
-babel-preset-react-app@11.0.0-next.102+657739fb:
-  version "11.0.0-next.102"
-  resolved "https://registry.yarnpkg.com/babel-preset-react-app/-/babel-preset-react-app-11.0.0-next.102.tgz#4c65672b8d86645a18e2ccbbb92cdb5848c9efd3"
-  integrity sha512-Vhev1FnkwCiDSaqvCJv+fGNuPJ5O1pwRLEtF0LfPeBbYYoJTW0K9qZH81xb6aQ/8o81XX1uPksEHMMqyZCuFiw==
+babel-preset-react-app@^10.0.1:
+  version "10.0.1"
+  resolved "https://registry.yarnpkg.com/babel-preset-react-app/-/babel-preset-react-app-10.0.1.tgz#ed6005a20a24f2c88521809fa9aea99903751584"
+  integrity sha512-b0D9IZ1WhhCWkrTXyFuIIgqGzSkRIH5D5AmB0bXbzYAB1OBAwHcUeyWW2LorutLWF5btNo/N7r/cIdmvvKJlYg==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/plugin-proposal-class-properties" "^7.16.0"
@@ -3225,15 +3225,15 @@ config-chain@^1.1.12:
     ini "^1.3.4"
     proto-list "~1.2.1"
 
-confusing-browser-globals@2.0.0-next.102+657739fb:
-  version "2.0.0-next.102"
-  resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-2.0.0-next.102.tgz#723e1a52959342ef334da17e4ed6614ad7eca58e"
-  integrity sha512-3J271XYW5deSgBspYIt0XQfOgICG2n9ZcQQqy6sW3ekued3lMVuBaLmIPy1B1qANvdqLzKqtSAi4dcQ+5+AXOg==
-
 confusing-browser-globals@^1.0.10:
   version "1.0.10"
   resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-1.0.10.tgz#30d1e7f3d1b882b25ec4933d1d1adac353d20a59"
   integrity sha512-gNld/3lySHwuhaVluJUKLePYirM3QNCKzVxqAdhJII9/WXKVX5PURzMVJspS1jTslSqjeuG4KMVTSouit5YPHA==
+
+confusing-browser-globals@^1.0.11:
+  version "1.0.11"
+  resolved "https://registry.yarnpkg.com/confusing-browser-globals/-/confusing-browser-globals-1.0.11.tgz#ae40e9b57cdd3915408a2805ebd3a5585608dc81"
+  integrity sha512-JsPKdmh8ZkmnHxDk55FZ1TqVLvEQTvoByJZRN9jzI0UjxK/QgAmsphz7PGtqgPieQZ/CQcHWXCR7ATDNhGe+YA==
 
 console-control-strings@^1.0.0, console-control-strings@~1.1.0:
   version "1.1.0"
@@ -3766,18 +3766,18 @@ eslint-config-prettier@^8.3.0:
   resolved "https://registry.yarnpkg.com/eslint-config-prettier/-/eslint-config-prettier-8.3.0.tgz#f7471b20b6fe8a9a9254cc684454202886a2dd7a"
   integrity sha512-BgZuLUSeKzvlL/VUjx/Yb787VQ26RU3gGjA3iiFvdsp/2bMfVIWUVP7tjxtjS0e+HP409cPlPvNkQloz8C91ew==
 
-eslint-config-react-app@next:
-  version "7.0.0-next.102"
-  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-7.0.0-next.102.tgz#6d2017238293280079de93815c08945865daedae"
-  integrity sha512-sbJvZgE/0WJTZ5LuVCmAaShUcxyniPlJwcoxcxz5HSvpweEVKX85fY23ifwVO3/Rq8nIBCOQ+A1MOEjcmZ2C3A==
+eslint-config-react-app@^7.0.0:
+  version "7.0.0"
+  resolved "https://registry.yarnpkg.com/eslint-config-react-app/-/eslint-config-react-app-7.0.0.tgz#0fa96d5ec1dfb99c029b1554362ab3fa1c3757df"
+  integrity sha512-xyymoxtIt1EOsSaGag+/jmcywRuieQoA2JbPCjnw9HukFj9/97aGPoZVFioaotzk1K5Qt9sHO5EutZbkrAXS0g==
   dependencies:
     "@babel/core" "^7.16.0"
     "@babel/eslint-parser" "^7.16.3"
     "@rushstack/eslint-patch" "^1.1.0"
     "@typescript-eslint/eslint-plugin" "^5.5.0"
     "@typescript-eslint/parser" "^5.5.0"
-    babel-preset-react-app "11.0.0-next.102+657739fb"
-    confusing-browser-globals "2.0.0-next.102+657739fb"
+    babel-preset-react-app "^10.0.1"
+    confusing-browser-globals "^1.0.11"
     eslint-plugin-flowtype "^8.0.3"
     eslint-plugin-import "^2.25.3"
     eslint-plugin-jest "^25.3.0"
