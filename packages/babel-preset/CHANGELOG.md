@@ -5,7 +5,7 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 # [3.0.0](https://github.com/thorgate/javascript/compare/@thorgate/babel-preset@2.0.0...@thorgate/babel-preset@3.0.0) (2022-01-07)
 
-* Update dependencies (see #13)
+* Update dependencies (see https://github.com/thorgate/javascript/pull/13)
 
 
 
