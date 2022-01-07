@@ -20,21 +20,21 @@
    Otherwise you can use following:
    
    ```shell script
-   npm install eslint@^7.5.0 \
-               eslint-config-airbnb-typescript@^18.2.1 \
-               eslint-config-prettie@^7.0.0 \
-               eslint-config-react-app@^6.0.0 \
-               eslint-plugin-flowtype@^5.2.0 \
-               eslint-plugin-import@^2.22.1 \
-               eslint-import-resolver-typescript@^2.3.0 \
-               eslint-plugin-jest@^24.1.3 \
-               eslint-plugin-jsx-a11y@^6.4.1 \
-               eslint-plugin-prettier@^3.2.8 \
-               eslint-plugin-react@^7.21.5 \
-               eslint-plugin-react-hooks@^4.2.0 \
-               @typescript-eslint/parser@^4.9.0 \
-               @typescript-eslint/eslint-plugin@^4.9.0 \
-               typescript
+   npm install eslint@^8.3.0 \
+               eslint-config-airbnb-typescript@^16.1.0 \
+               eslint-config-prettier@^8.3.0 \
+               eslint-config-react-app@^7.0.0 \
+               eslint-plugin-flowtype@^8.0.3 \
+               eslint-plugin-import@^2.25.3 \
+               eslint-import-resolver-typescript@^2.5.0 \
+               eslint-plugin-jest@^25.3.0 \
+               eslint-plugin-jsx-a11y@^6.5.1 \
+               eslint-plugin-prettier@^4.0.0 \
+               eslint-plugin-react@^7.27.1 \
+               eslint-plugin-react-hooks@^4.3.0 \
+               @typescript-eslint/parser@^5.5.0 \
+               @typescript-eslint/eslint-plugin@^5.5.0 \
+               typescript@^4
    ```
 
 1) Configure ESLint
