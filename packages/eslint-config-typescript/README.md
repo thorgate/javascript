@@ -21,6 +21,7 @@
    
    ```shell script
    npm install eslint@^8.16.0 \
+               eslint-config-airbnb@^19.0.4 \
                eslint-config-airbnb-typescript@^17.0.0 \
                eslint-config-prettier@^8.5.0 \
                eslint-config-react-app@^7.0.1 \
