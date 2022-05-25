@@ -8,11 +8,11 @@
     "build": "babel src --out-dir dist"
   },
   "dependencies": {
-    "@babel/cli": "^7.12.1",
-    "@babel/core": "^7.12.3",
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.18.2",
     "@thorgate/babel-preset": "^3.0.0",
-    "babel-preset-razzle": "^4.0.4",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "babel-preset-razzle": "^4.2.17",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0"
   }
 }

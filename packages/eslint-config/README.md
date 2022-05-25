@@ -19,17 +19,17 @@
    Otherwise you can use following:
     
    ```shell script
-   npm install eslint@^8.3.0 \
+   npm install eslint@^8.16.0 \
                eslint-config-airbnb@^19.0.2 \
-               eslint-config-prettier@^8.3.0 \
-               eslint-config-react-app@^7.0.0 \
+               eslint-config-prettier@^8.5.0 \
+               eslint-config-react-app@^7.0.1 \
                eslint-plugin-flowtype@^8.0.3 \
-               eslint-plugin-import@^2.25.3 \
-               eslint-plugin-jest@^25.3.0 \
+               eslint-plugin-import@^2.26.0 \
+               eslint-plugin-jest@^26.2.2 \
                eslint-plugin-jsx-a11y@^6.5.1 \
                eslint-plugin-prettier@^4.0.0 \
-               eslint-plugin-react@^7.27.1 \
-               eslint-plugin-react-hooks@^4.3.0
+               eslint-plugin-react@^7.30.0 \
+               eslint-plugin-react-hooks@^4.5.0
    ```
 
 3) Configuration
