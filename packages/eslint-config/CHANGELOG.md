@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [3.1.0-alpha.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config@3.0.0...@thorgate/eslint-config@3.1.0-alpha.0) (2022-05-25)
+
+**Note:** Version bump only for package @thorgate/eslint-config
+
+
+
+
+
 # [3.0.0](https://github.com/thorgate/javascript/compare/@thorgate/eslint-config@2.1.0...@thorgate/eslint-config@3.0.0) (2022-01-07)
 
 * Update dependencies (see https://github.com/thorgate/javascript/pull/13)
