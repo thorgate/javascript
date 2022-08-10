@@ -1,6 +1,6 @@
 {
   "name": "@thorgate/eslint-config-typescript",
-  "version": "3.1.0-alpha.0",
+  "version": "3.1.0",
   "license": "MIT",
   "author": "Thorgate <hi@thorgate.eu>",
   "contributors": [
